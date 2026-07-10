@@ -1,6 +1,5 @@
-package Conditions;
 import java.util.*;
-class minor{
+class Minor{
 
     public static void main(String[] args){
         Scanner sc= new Scanner(System.in);
