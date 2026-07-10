@@ -1,3 +1,4 @@
+package Conditions;
 import java.util.*;
 class minor{
 
